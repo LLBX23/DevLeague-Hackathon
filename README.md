@@ -1,5 +1,3 @@
-# DevLeague-Hackathon
-
 # OrgTimeline — People-Centric Tech & Collaboration
 
 ## Mapping How Roles and People Evolve Over Time
